@@ -223,9 +223,3 @@ footer button:hover {
     margin-bottom: 16px;
   }
 }
-
-.team-section {
-  display: flex;
-  gap: 40px;
-  flex-wrap: wrap;
-}
