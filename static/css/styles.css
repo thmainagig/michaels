@@ -189,7 +189,5 @@ body {
 .team-section {
   display: flex;
   gap: 40px;
-  justify-content: center;
-  margin-bottom: 40px;
   flex-wrap: wrap;
 }
