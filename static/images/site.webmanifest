@@ -1,21 +1,21 @@
 {
-  "name": "Calvary Mission",
-  "short_name": "Calvary",
+  "name": "St. Michaels VTI",
+  "short_name": "St. Michaels",
   "icons": [
     {
-      "src": "/calvary-favicon/web-app-manifest-192x192.png",
+      "src": "/static/images/web-app-manifest-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "/calvary-favicon/web-app-manifest-512x512.png",
+      "src": "/static/images/web-app-manifest-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     }
   ],
   "theme_color": "#ffffff",
-  "background_color": "#ffffff",
+  "background_color": "#524e4e",
   "display": "standalone"
 }

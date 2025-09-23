@@ -186,3 +186,10 @@ body {
   flex: 1 0 auto;
 }
 
+.team-section {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
